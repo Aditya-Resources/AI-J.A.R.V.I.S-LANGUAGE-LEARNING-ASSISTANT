@@ -333,7 +333,7 @@ No license has been specified yet. Add a `LICENSE` file before granting others e
 
 **Your Name**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@Aditya-Resources](https://github.com/Aditya-Resources)
 
 Replace the placeholders with your actual details.
 
